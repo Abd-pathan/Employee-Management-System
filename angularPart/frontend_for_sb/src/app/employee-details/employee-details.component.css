@@ -1,0 +1,51 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    margin: 0;
+    padding: 0;
+}
+
+/* Employee Details Container */
+.employee-details-container {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: mintcream;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 12px;
+    text-align: center;
+}
+
+/* Heading */
+.employee-details-container h1 {
+    font-size: 65x;
+    color: #343a40;
+    margin-bottom: 20px;
+}
+
+/* Employee Details Box */
+.employee-details-box {
+    text-align: left;
+}
+
+/* Detail Row */
+.detail-row {
+    padding: 10px 0;
+    border-bottom: 1px solid #e0e0e0;
+}
+
+.detail-row:last-child {
+    border-bottom: none;
+}
+
+/* Labels */
+.detail-row label {
+    font-size: 35px;
+    color: #495057;
+}
+
+.detail-row b {
+    font-weight: bold;
+    color: #212529;
+}

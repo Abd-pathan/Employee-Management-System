@@ -1,0 +1,28 @@
+body {
+    font-size: 40px; /* Increase overall font size */
+}
+h1 {
+    font-size: 72px;
+    margin-top:80px;
+}
+.form-group {
+    margin-top: 50px;
+    margin-bottom: 35px;
+}
+.form-group label {
+    font-size: 40px; /* Slightly larger labels */
+}
+.form-group input {
+    font-size: 22px;
+    padding: 20px;
+    width: 100%;
+}
+.btn {
+    font-size: 38px;
+    padding: 10px 20px;
+}
+.container {
+    max-width: 600px;
+    margin: auto;
+    margin-top: 50px;
+}

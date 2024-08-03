@@ -1,0 +1,29 @@
+
+        body {
+            font-size: 40px;
+        }
+        h1 {
+            font-size: 92px;
+            margin-top: 20px;
+        }
+        .form-group {
+            margin-top: 50px;
+            margin-bottom: 35px;
+        }
+        .form-group label {
+            font-size: 40px;
+        }
+        .form-group input {
+            font-size: 22px;
+            padding: 30px;
+            width: 100%;
+        }
+        .btn {
+            font-size: 38px;
+            padding: 10px 20px;
+        }
+        .container {
+            max-width: 600px;
+            margin: auto;
+            margin-top: 50px;
+        }

@@ -1,0 +1,31 @@
+body {
+    font-size: 40px;
+}
+.container {
+    margin-top: 40px;
+}
+.table {
+    font-size: 40px;
+}
+.table th, .table td {
+    padding: 35px;
+    vertical-align: middle;
+}
+.table th {
+    background-color: #f8f9fa;
+}
+.btn {
+    font-size: 28px;
+    padding: 10px 20px;
+}
+.navbar-brand {
+    font-size: 65px;
+}
+.nav-link {
+    font-size: 40px;
+}
+h1 {
+    font-size: 85px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
